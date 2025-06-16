@@ -31,49 +31,55 @@ Note: Each PIN code can only be used once. If a code has already been used, the 
 
 ## 📱 User Interface Screenshots
 
+<div align="center">
 <table>
 <tr>
-<td width="50%">
-<img src="photos/user-agenda.jpg" alt="User Agenda View" width="100%">
-<p align="center"><em>Real-time agenda display for users</em></p>
-</td>
-<td width="50%">
+<td width="30%">
 <img src="photos/user-voting.jpg" alt="User Voting Interface" width="100%">
 <p align="center"><em>User-friendly voting interface with real-time updates</em></p>
 </td>
-</tr>
-<tr>
-<td colspan="2">
+<td width="30%">
 <img src="photos/user-voting2.jpg" alt="User Voting Interface 2" width="100%">
 <p align="center"><em>Alternative view of the voting interface</em></p>
 </td>
 </tr>
-</table>
-
-## 👨‍💼 Admin Interface Screenshots
-
-<table>
 <tr>
-<td width="50%">
-<img src="photos/admin-agenda.jpg" alt="Admin Agenda Management" width="100%">
-<p align="center"><em>Admin interface for managing event agendas</em></p>
+<td width="30%">
+<img src="photos/user-agenda.jpg" alt="User Agenda View" width="100%">
+<p align="center"><em>Real-time agenda display for users</em></p>
 </td>
-<td width="50%">
+<td width="30%">
 <img src="photos/admin-agenda2.jpg" alt="Admin Agenda Management 2" width="100%">
 <p align="center"><em>Detailed agenda management view</em></p>
 </td>
 </tr>
+</table>
+</div>
+
+## 👨‍💼 Admin Interface Screenshots
+
+<div align="center">
+<table>
 <tr>
-<td width="50%">
-<img src="photos/admin-selection.jpg" alt="Admin Selection Management" width="100%">
-<p align="center"><em>Interface for managing voting selections</em></p>
-</td>
-<td width="50%">
+<td width="30%">
 <img src="photos/admin-votingresult.jpg" alt="Admin Voting Results" width="100%">
 <p align="center"><em>Real-time voting results dashboard</em></p>
 </td>
+<td width="30%">
+<img src="photos/admin-selection.jpg" alt="Admin Selection Management" width="100%">
+<p align="center"><em>Interface for managing voting selections</em></p>
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="photos/admin-agenda.jpg" alt="Admin Agenda Management" width="100%">
+<p align="center"><em>Admin interface for managing event agendas</em></p>
+</td>
+<td width="30%">
+</td>
 </tr>
 </table>
+</div>
 
 ## ✨ Key Features
 
