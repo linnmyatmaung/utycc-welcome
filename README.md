@@ -31,33 +31,49 @@ Note: Each PIN code can only be used once. If a code has already been used, the 
 
 ## 📱 User Interface Screenshots
 
-### User Agenda View
-![User Agenda View](photos/user-agenda.jpg)
-*Real-time agenda display for users*
-
-### User Voting Interface
-![User Voting Interface](photos/user-voting.jpg)
-*User-friendly voting interface with real-time updates*
-
-![User Voting Interface 2](photos/user-voting2.jpg)
-*Alternative view of the voting interface*
+<table>
+<tr>
+<td width="50%">
+<img src="photos/user-agenda.jpg" alt="User Agenda View" width="100%">
+<p align="center"><em>Real-time agenda display for users</em></p>
+</td>
+<td width="50%">
+<img src="photos/user-voting.jpg" alt="User Voting Interface" width="100%">
+<p align="center"><em>User-friendly voting interface with real-time updates</em></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="photos/user-voting2.jpg" alt="User Voting Interface 2" width="100%">
+<p align="center"><em>Alternative view of the voting interface</em></p>
+</td>
+</tr>
+</table>
 
 ## 👨‍💼 Admin Interface Screenshots
 
-### Admin Agenda Management
-![Admin Agenda Management](photos/admin-agenda.jpg)
-*Admin interface for managing event agendas*
-
-![Admin Agenda Management 2](photos/admin-agenda2.jpg)
-*Detailed agenda management view*
-
-### Admin Selection Management
-![Admin Selection Management](photos/admin-selection.jpg)
-*Interface for managing voting selections*
-
-### Admin Voting Results
-![Admin Voting Results](photos/admin-votingresult.jpg)
-*Real-time voting results dashboard*
+<table>
+<tr>
+<td width="50%">
+<img src="photos/admin-agenda.jpg" alt="Admin Agenda Management" width="100%">
+<p align="center"><em>Admin interface for managing event agendas</em></p>
+</td>
+<td width="50%">
+<img src="photos/admin-agenda2.jpg" alt="Admin Agenda Management 2" width="100%">
+<p align="center"><em>Detailed agenda management view</em></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="photos/admin-selection.jpg" alt="Admin Selection Management" width="100%">
+<p align="center"><em>Interface for managing voting selections</em></p>
+</td>
+<td width="50%">
+<img src="photos/admin-votingresult.jpg" alt="Admin Voting Results" width="100%">
+<p align="center"><em>Real-time voting results dashboard</em></p>
+</td>
+</tr>
+</table>
 
 ## ✨ Key Features
 
