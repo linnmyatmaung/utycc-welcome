@@ -8,24 +8,31 @@
 ![Node.js](https://img.shields.io/badge/Node.js-Latest-green)
 ![Express](https://img.shields.io/badge/Express-Latest-lightgrey)
 ![MySQL](https://img.shields.io/badge/MySQL-Latest-orange)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-Latest-blue)
 
 </div>
 
-## 🌐 Live Demo
+## 🌐 Live Demo & Source Code
 
 - User Interface: [https://ut-front.vercel.app/](https://ut-front.vercel.app/)
 - Admin Interface: [https://ut-front.vercel.app/admin](https://ut-front.vercel.app/admin)
+- Frontend Repository: [https://github.com/linnmyatmaung/UTFront](https://github.com/linnmyatmaung/UTFront)
+- Backend Repository: [https://github.com/linnmyatmaung/UTBack](https://github.com/linnmyatmaung/UTBack)
 
 ## 🔑 Login Credentials
 
 ### User Access
+
 Use any of these PIN codes to access the voting interface:
+
 ```
 RACNCG, RJMRH7, LTZ1LK, PQGJMA, 767J7K, 6WZ8HM, XRF1OZ, 0X18KO, LE305I, F02YMX, MMNEUE, 64HBHR, 0CWLPR, AGD3W8, GFJIHT, XRJRQR
 ```
+
 Note: Each PIN code can only be used once. If a code has already been used, the vote button will not appear.
 
 ### Admin Access
+
 - Username: `Lucas`
 - Password: `lucas`
 
@@ -70,31 +77,26 @@ Note: Each PIN code can only be used once. If a code has already been used, the 
 <p align="center"><em>Interface for managing voting selections</em></p>
 </td>
 </tr>
-<tr>
-<td width="30%">
-<img src="photos/admin-agenda.jpg" alt="Admin Agenda Management" width="100%">
-<p align="center"><em>Admin interface for managing event agendas</em></p>
-</td>
-<td width="30%">
-</td>
-</tr>
 </table>
 </div>
 
 ## ✨ Key Features
 
 - 🎯 **Real-time Voting System**
+
   - Secure PIN-based voting
   - One-time use PIN codes
   - Real-time vote counting
   - Instant result updates
 
 - 📊 **Agenda Management**
+
   - Create and manage event agendas
   - Real-time agenda updates
   - Multiple agenda support
 
 - 👨‍💼 **Admin Dashboard**
+
   - Comprehensive selection management
   - Real-time voting monitoring
   - User activity tracking
@@ -109,6 +111,7 @@ Note: Each PIN code can only be used once. If a code has already been used, the 
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 - React 18.3.1
 - TypeScript 5.6.2
 - TailwindCSS 3.4.17
@@ -116,6 +119,7 @@ Note: Each PIN code can only be used once. If a code has already been used, the 
 - Radix UI Components
 
 ### Backend
+
 - Node.js
 - Express
 - TypeORM
@@ -131,4 +135,4 @@ This project is licensed under the MIT License.
 
 <div align="center">
 Made with ❤️ for UTYCC Welcome Event
-</div> 
+</div>
