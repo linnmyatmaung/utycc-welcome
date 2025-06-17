@@ -26,10 +26,10 @@
 Use any of these PIN codes to access the voting interface:
 
 ```
-RACNCG, RJMRH7, LTZ1LK, PQGJMA, 767J7K, 6WZ8HM, XRF1OZ, 0X18KO, LE305I, F02YMX, MMNEUE, 64HBHR, 0CWLPR, AGD3W8, GFJIHT, XRJRQR
+RACNCG, RJMRH7, LTZ1LK, PQGJMA, 767J7K, 6WZ8HM, XRF1OZ, 0X18KO, LE305I, F02YMX, MMNEUE, 64HBHR, 0CWLPR, AGD3W8, GFJIHT
 ```
 
-Note: Each PIN code can only be used once. If a code has already been used, the vote button will not appear.
+Note: Each PIN code can only be used once. If a code has already been used, the vote button will not appear.For the first attempt, the login might fail because I used Render free server and this may take a while to response request. If failed, please type the codes again!
 
 ### Admin Access
 
@@ -116,6 +116,7 @@ Note: Each PIN code can only be used once. If a code has already been used, the 
 - TypeScript 5.6.2
 - TailwindCSS 3.4.17
 - Socket.IO Client
+- Cloudinary for images
 - Radix UI Components
 
 ### Backend
