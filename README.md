@@ -26,7 +26,8 @@
 Use any of these PIN codes to access the voting interface:
 
 ```
-RACNCG, RJMRH7, LTZ1LK, PQGJMA, 767J7K, 6WZ8HM, XRF1OZ, 0X18KO, LE305I, F02YMX, MMNEUE, 64HBHR, 0CWLPR, AGD3W8, GFJIHT
+AI1S77, G85TN5, YERESI, B6JY2U, N0M4J7, 1IEVYX, 8J5P4H, IMFIR6, VXAZWR, A4AG27, 4T6MX7, QA1ORS, OV7IO6, V0MVJY, 5N3C4J, DMW32Z, QHLFSU, WCRWGW, 4GP2VC, KOF4ZQ, 34W13G, 939F9J, KNN6E7, MRM2DH, S2NJM9, UMU1GG, GAYU6O, UKBBU9, ZQ4S4Y, LXA9XT
+
 ```
 
 Note: Each PIN code can only be used once. If a code has already been used, the vote button will not appear.For the first attempt, the login might fail because I used Render free server and this may take a while to response request. If failed, please type the codes again!
